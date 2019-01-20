@@ -1,0 +1,27 @@
+.ermessContainer {
+    display: flex;
+    flex: 1;
+    background-color: #ccc;
+    height: 100%;
+    position: fixed;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+}
+.ermessContainer {
+    display: flex;
+    flex: 1;
+    width: 100%;
+    position: fixed;
+    align-items: center;
+    z-index: 3;
+    justify-content: center;
+    background-color: tan;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    color: #fff;
+    right: 0;
+    text-align: center;
+    padding: 0 15%;
+}
